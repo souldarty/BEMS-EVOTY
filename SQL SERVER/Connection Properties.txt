@@ -1,0 +1,8 @@
+Server Name : localhost\SQLEXPRESS
+DB_NAME : BEMS
+DB_USER : ""
+DB_PASS : ""
+
+Kalau pakai SQL Server Authentication
+User Name : dev1
+Password : dev123
